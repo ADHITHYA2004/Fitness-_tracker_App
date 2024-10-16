@@ -7,3 +7,7 @@ User dashboard with activity tracking
 Exercise library with instructions
 Progress charts and analytics
 Social sharing of achievements
+
+
+Figma design link:
+https://www.figma.com/design/tXDytiBhYRBvWqWr6g2gNq/Fitness-App?node-id=0-1&t=NRqvqnnj3e9zhAf2-1
